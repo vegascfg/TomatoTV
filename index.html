@@ -6130,3 +6130,26 @@ var torovid = {"url":"https://canaistops.fun/wp-admin/admin-ajax.php","nonce":"e
 
 
 </body></html><!-- Page cached by LiteSpeed Cache 7.8.1 on 2026-04-21 07:42:50 -->
+
+<video controls width="600">
+  <source src="video-hevc.mp4" type='video/mp4; codecs="hvc1"'>
+  <source src="video-h264.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo.
+</video>
+
+ffmpeg -i input.mp4 -c:v libx265 -tag:v hvc1 -crf 28 output-hevc.mp4
+
+<video controls>
+  <source src="video-hevc.mp4" type='video/mp4; codecs="hvc1"'>
+  <source src="video.webm" type="video/webm">
+  <source src="video-h264.mp4" type="video/mp4">
+</video>
+
+<video controls width="800">
+  <source src="video-8k.mp4" type='video/mp4; codecs="hvc1"'>
+  <source src="video-4k.mp4" type="video/mp4">
+  <source src="video-1080p.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo.
+</video>
+
+ffmpeg -i input.mp4 -vf scale=7680:4320 -c:v libx265 -crf 28 -preset slow -tag:v hvc1 output-8k.mp4
