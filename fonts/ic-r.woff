@@ -391,7 +391,7 @@ _stq.push([ "clickTrackerInit", "254250172", "0" ]);
 <script type="text/javascript" src="../js/al.min.js" id="al.min.js-js"></script>
 <script type="text/javascript" id="tv-pub.js-js-extra">
 /* <![CDATA[ */
-var torovid = {"url":"https://canaistops.fun/wp-admin/admin-ajax.php","nonce":"1bfe7a8798","version":"1.0.7"};
+var torovid = {"url":"https://canaistops.fun/wp-admin/admin-ajax.php","nonce":"f04636094e","version":"1.0.7"};
 //# sourceURL=tv-pub.js-js-extra
 /* ]]> */
 </script>
