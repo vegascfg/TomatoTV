@@ -386,12 +386,12 @@ _stq.push([ "clickTrackerInit", "254250172", "0" ]);
 //# sourceURL=jetpack-stats-js-before
 /* ]]> */
 </script>
-<script type="text/javascript" src="../js/e-202617.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../js/e-202618.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" src="../js/sw.min.js" id="sw.min.js-js"></script>
 <script type="text/javascript" src="../js/al.min.js" id="al.min.js-js"></script>
 <script type="text/javascript" id="tv-pub.js-js-extra">
 /* <![CDATA[ */
-var torovid = {"url":"https://canaistops.club/wp-admin/admin-ajax.php","nonce":"484089c2be","version":"1.0.7"};
+var torovid = {"url":"https://canaistops.club/wp-admin/admin-ajax.php","nonce":"3eb21daa08","version":"1.0.7"};
 //# sourceURL=tv-pub.js-js-extra
 /* ]]> */
 </script>
