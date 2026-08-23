@@ -1,6 +1,6 @@
 # How to access/to use
 * Just go to this website, it's simple.
-https://anthropiccfg.github.io/TomatoTV
+https://anthropicdev.github.io/TomatoTV
 
 # Compatible devices
 * TV, computer, mobile phone, tablet and more
